@@ -1,0 +1,20 @@
+.container {
+    min-width: 382px;
+}
+
+.col-1 {
+    height: 50px;
+    border: 1px solid white;
+}
+
+.dark {
+    background-color: #2a2727;
+}
+
+.orange {
+    background-color: #cd8503;
+}
+
+.yellow {
+    background-color: #e7e706;
+}
